@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sort-visualizer/static/css/main.97f37b57.css",
+    "main.js": "/sort-visualizer/static/js/main.c316884c.js",
+    "index.html": "/sort-visualizer/index.html",
+    "main.97f37b57.css.map": "/sort-visualizer/static/css/main.97f37b57.css.map",
+    "main.c316884c.js.map": "/sort-visualizer/static/js/main.c316884c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f37b57.css",
+    "static/js/main.c316884c.js"
+  ]
+}
