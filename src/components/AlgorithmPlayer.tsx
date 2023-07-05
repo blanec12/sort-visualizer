@@ -1,4 +1,4 @@
-export default function SortAlgoPlayer(){
+export default function AlgorithmPlayer(){
   return (
     <div>
       <div 

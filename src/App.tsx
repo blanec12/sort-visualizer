@@ -1,5 +1,5 @@
-import SortAlgoPlayer from "./components/SortAlgoPlayer";
-import SortAlgoInfo from "./components/SortAlgoInfo";
+import AlgorithmPlayer from "./components/AlgorithmPlayer";
+import AlgorithmInfo from "./components/AlgorithmInfo";
 
 export default function App() {
   return (
@@ -8,8 +8,8 @@ export default function App() {
         <h1 className="text-center mb-4">
           Sorting Algorithm Visualizer
         </h1>
-        <SortAlgoPlayer />
-        <SortAlgoInfo />
+        <AlgorithmPlayer />
+        <AlgorithmInfo />
       </div>
     </div>
   );
