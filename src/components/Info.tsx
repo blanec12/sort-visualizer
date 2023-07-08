@@ -1,12 +1,4 @@
-interface Algorithm {
-  name: string;
-  description: string;
-  average: string;
-  best: string;
-  worst: string; 
-  space: string;
-}
-export default function AlgorithmInfo(){
+export default function Info(){
   return (
     <div className="row mt-5">
       <div className="col-md-8">
